@@ -1,0 +1,93 @@
+{
+    "products" : [ 
+        {
+        "id": 1,
+        "name": "iPhone 12 pro",
+        "desc": "Apple iphone 12th generation",
+        "price": 999,
+        "color": "#33505a",
+        "image": "https://www.bakuelectronics.az/assets/images/products/92176/apple-iphone-12-pro-max-1.jpg"
+        },
+        {
+        "id": 2,
+        "name": "Pixel 5",
+        "desc": "Google Pixel phone 5th generation",
+        "price": 699,
+        "color": "#00ac51",
+        "image": "https://th.bing.com/th/id/OIP.FjpxyEiX_5dLG1jV4RSocgHaHa?pid=ImgDet&rs=1"
+        },
+        {
+        "id": 3,
+        "name": "M1 Macbook Air",
+        "desc": "Apple Macbook air with apple silicon",
+        "price": 1099,
+        "color": "#33505a",
+        "image": "https://th.bing.com/th/id/R.79d579b5a19bb33242688ae881f4ac41?rik=Vcv9J5U7DTIaAQ&riu=http%3a%2f%2fcdn.shopify.com%2fs%2ffiles%2f1%2f0485%2f4566%2f1094%2fproducts%2fMacbookAirM1-1_1200x1200.jpg%3fv%3d1621107949&ehk=YvaoQIhmcl5kilJavsAS3nKCNYOV0KwsjN6HntTZhJM%3d&risl=&pid=ImgRaw&r=0"
+        },
+        {
+        "id": 4,
+        "name": "Playstation 5",
+        "desc": "Song Playstation 5th generation",
+        "price": 500,
+        "color": "#33505a",
+        "image": "https://cdn1.smartprix.com/rx-iRb1Qj5zT-w1200-h1200/sony-playstation-5-p.jpg"
+        },
+        {
+        "id": 5,
+        "name": "Airpods Pro",
+        "desc": "Apple Airpods Pro 1st generation",
+        "price": 200,
+        "color": "#33505a",
+        "image": "https://th.bing.com/th/id/OIP.oZhAgHANB68gzjdV0-MYAgHaHa?pid=ImgDet&rs=1"
+        },
+        {
+        "id": 6,
+        "name": "iPad Pro",
+        "desc": "Apple iPad Pro 2020 edition",
+        "price": 799,
+        "color": "#33505a",
+        "image": "https://th.bing.com/th/id/OIP.jwCQJSYH7R-eSfXu8GbQnQHaHa?pid=ImgDet&rs=1"
+        },
+        {
+        "id": 7,
+        "name": "Galaxy S21 Ultra",
+        "desc": "Samsung Galaxy S21 Ultra 2021 edition",
+        "price": 1299,
+        "color": "#33505a",
+        "image": "https://th.bing.com/th/id/OIP.MWmkTSrSmtlR1zUKd3NdRwHaHa?pid=ImgDet&rs=1"
+        },
+        {
+        "id": 8,
+        "name": "Redmi Note 12 Pro",
+        "desc": "Xiaomi Redmi Note 12 Pro Plus 5G",
+        "price": 304,
+        "color": "#33505a",
+        "image": "https://www.droidafrica.net/wp-content/uploads/2022/10/Xiaomi-Redmi-Note-12-Pro-Plus-full-specifications.jpg"
+            },
+
+            {
+            "id": 9,
+            "name": "iPhone 12 pro",
+            "desc": "Apple iphone 12th generation",
+            "price": 999,
+            "color": "#33505a",
+            "image": "https://www.bakuelectronics.az/assets/images/products/92176/apple-iphone-12-pro-max-1.jpg"
+            },
+            {
+            "id": 10,
+            "name": "Pixel 5",
+            "desc": "Google Pixel phone 5th generation",
+            "price": 699,
+            "color": "#00ac51",
+            "image": "https://th.bing.com/th/id/OIP.FjpxyEiX_5dLG1jV4RSocgHaHa?pid=ImgDet&rs=1"
+            },
+            {
+            "id": 11,
+            "name": "M1 Macbook Air",
+            "desc": "Apple Macbook air with apple silicon",
+            "price": 1099,
+            "color": "#33505a",
+            "image": "https://th.bing.com/th/id/R.79d579b5a19bb33242688ae881f4ac41?rik=Vcv9J5U7DTIaAQ&riu=http%3a%2f%2fcdn.shopify.com%2fs%2ffiles%2f1%2f0485%2f4566%2f1094%2fproducts%2fMacbookAirM1-1_1200x1200.jpg%3fv%3d1621107949&ehk=YvaoQIhmcl5kilJavsAS3nKCNYOV0KwsjN6HntTZhJM%3d&risl=&pid=ImgRaw&r=0"
+            }
+    ]
+}
